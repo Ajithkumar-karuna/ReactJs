@@ -1,0 +1,40 @@
+.linercolor{
+    background-image:linear-gradient(to bottom right , rgb(88, 150, 220) , rgb(144, 39, 165));
+    height: 90vh;
+}
+.margintop{
+    margin-top: 30px;
+}
+.back{
+    background-color:rgb(243, 235, 227);
+    border-radius:5%;
+     width: 70%;
+    
+  }
+  .butcolor{
+    background-color:greenyellow;
+    border:2px solid greenyellow ;
+  }
+  .butcolor1{
+    background-color:none;
+    border:none;
+  }
+  .divform{
+    background-color:white;
+    border:2px solid rgb(157, 154, 154);
+    padding: 8px;}
+  .namelast{
+    margin-left: 30px;
+  }
+.out1{
+  outline-color: white;
+ 
+}
+.actradious{
+  border-radius: 5rem ;
+}
+.rea{
+  position: relative;
+  left:30px;
+}
+  

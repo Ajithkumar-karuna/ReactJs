@@ -1,0 +1,21 @@
+.Socialbuttons-bg{
+    background-image:url('https://d3nn873nee648n.cloudfront.net/900x600/18271/1-ES822024.jpg');
+    background-repeat: no-repeat;
+   background-size:cover;
+   height:90vh;
+  
+}
+.heading{
+  font-size:50px;
+
+}
+.gruopsbtn{
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-around;
+  justify-content: space-evenly;
+}
+
+ .btn-cent{
+  padding-top: 80px;
+} 

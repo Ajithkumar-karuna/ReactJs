@@ -1,0 +1,17 @@
+.overbg{
+    background-color:black;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+  }
+  .rcp-img{
+   max-height:20rem;
+    max-width: 15rem;
+  }
+  @media only screen and (max-width:500px) {
+    .ak {
+     width: 130px;
+     height: 130px;
+    }
+  }

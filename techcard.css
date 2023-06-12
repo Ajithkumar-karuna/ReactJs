@@ -1,0 +1,25 @@
+.com1{
+    height:7em;
+    width: 8rem;
+}
+.card5{
+    border-radius:20px;
+}
+.cardtop1{
+    border-top: 10px solid red;
+}
+.cardtop2{
+    border-top: 10px solid blue;
+}
+.cardtop3{
+    border-top: 10px solid green;
+}
+.cardtop4{
+    border-top: 10px solid rgb(167, 53, 53);
+}
+.bginfo{
+    background-color: aqua;
+}
+.tech-outline{
+ border: none;
+}
